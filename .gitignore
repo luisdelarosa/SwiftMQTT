@@ -75,3 +75,7 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+# Swift Package Manager
+.build
+Package.pins
